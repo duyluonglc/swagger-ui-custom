@@ -1,5 +1,7 @@
 # Swagger UI responsive theme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/duyluonglc/swagger-ui-custom.svg)](https://greenkeeper.io/)
+
 This project is forked of https://github.com/kenneth-lau/swagger-ui-themed
 Add more feature
 1. Update swagger client
